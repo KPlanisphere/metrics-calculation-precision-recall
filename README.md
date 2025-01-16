@@ -69,7 +69,3 @@ This repository contains a Python script for calculating precision, recall, F-me
 
 - Ensure that the input files are correctly formatted. Each query's relevant and retrieved documents must follow the expected structure.
 - The script includes error handling for empty queries or missing data.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
